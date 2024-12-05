@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @rohit852185
-- 👀 I’m interested in cyber security .
+- 👀 I’m interested in cyber security ..
 - 🌱 I’m currently learning  B.tech CSE..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me 8521854031 ..
+- 🎓 Undergraduate Cybersecurity Student..
+- 💻 Ethical Hacking Enthusiast ..
+- 🛡️ Passionate about Cybersecurity and securing digital landscapes..
 
 <!---
 rohit852185/rohit852185 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
